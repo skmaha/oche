@@ -3,7 +3,7 @@
   tasks:
   - name: pull git repo
     git:
-      repo: 'https://github.com/sunil4356/sample.git'
+      repo: 'https://github.com/sunil4356/oche.git'
       dest: /home/oche/challange/
       update: yes
       version: master
